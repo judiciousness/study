@@ -10,7 +10,7 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>otg.apache.maven.plugins</groupId>
+                <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
                     <source>8</source>
